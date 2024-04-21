@@ -20,7 +20,7 @@
 
 <h2>💬 Q&A:</h2>
 <h4><b>🤔  How to install?</b></h4>
-<p>Download full repo either from here or from "Releases", launch "Launch.bat" to install dependencies and enjoy.</p>
+<p>Download full repo either from here or from "Releases", launch "Loader.bat" to install dependencies and enjoy.</p>
 
 <h4><b>🤔  Is this detectable?</b></h4>
 <p>This software operates in user mode, so it is entirely possible to be detected. However, you should always avoid suspicious gameplay to evade potential reports.</p>
